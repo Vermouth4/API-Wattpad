@@ -1,0 +1,10 @@
+Email: dyam1487@gmail.com
+GitHub: https://github.com/akat4/
+
+Description:
+This project is a complete security penetration of the Wattpad application, performed by SFAH.
+
+About me:
+I am a software engineer, ethical hacker, and security researcher.
+
+All rights reserved.
